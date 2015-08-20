@@ -4,7 +4,7 @@ import pytest
 from faker import Factory
 
 
-@pytest.fixture
+@pytest.fixture(scope='session')
 def faker_locale():
     """Faker locale.
 
@@ -13,6 +13,7 @@ def faker_locale():
     return None
 
 
-@pytest.fixture
+@pytest.fixture(scope='session')
 def faker(faker_locale):
+    """Faker factory object."""
     return Factory.create(faker_locale)
