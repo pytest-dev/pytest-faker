@@ -1,11 +1,13 @@
 faker_ integration the pytest_ test runner
 ==========================================
 
-.. image:: https://api.travis-ci.org/pytest-dev/pytest-faker.png
+.. image:: http://img.shields.io/travis/pytest-dev/pytest-faker.svg
    :target: https://travis-ci.org/pytest-dev/pytest-faker
-.. image:: https://pypip.in/v/pytest-faker/badge.png
-   :target: https://crate.io/packages/pytest-faker/
-.. image:: https://coveralls.io/repos/pytest-dev/pytest-faker/badge.png?branch=master
+.. image:: https://img.shields.io/pypi/pyversions/pytest-qt.svg
+  :target: https://pypi.python.org/pypi/pytest-qt/   
+.. image:: http://img.shields.io/pypi/v/pytest-faker.svg
+   :target: https://pypi.python.org/pypi/pytest-faker
+.. image:: http://img.shields.io/coveralls/pytest-dev/pytest-faker.svg
    :target: https://coveralls.io/r/pytest-dev/pytest-faker
 .. image:: https://readthedocs.org/projects/pytest-faker/badge/?version=latest
     :target: https://readthedocs.org/projects/pytest-faker/?badge=latest
