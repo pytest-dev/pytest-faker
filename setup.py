@@ -18,7 +18,7 @@ long_description = (
 
 setup(
     name="pytest-faker",
-    description="Faker integration for pytest framework.",
+    description="Faker integration with the pytest framework.",
     long_description=long_description,
     author="Anatoly Bubenkov, Oleg Pidsadnyi and others",
     license="MIT license",
