@@ -13,8 +13,8 @@ faker_ integration the pytest_ test runner
 
 pytest-faker adds faker fixtures_ for easy use of faker_ for your tests under pytest_ runner.
 
-.. _faker: http://www.joke2k.net/faker/
 .. _pytest: http://pytest.org
+.. _Faker: https://faker.readthedocs.io/
 .. _fixtures: https://pytest.org/latest/fixture.html
 
 Install pytest-faker
