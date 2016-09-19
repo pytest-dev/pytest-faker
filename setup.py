@@ -39,7 +39,7 @@ setup(
         "Programming Language :: Python :: 3"
     ] + [("Programming Language :: Python :: %s" % x) for x in "2.6 2.7 3.0 3.1 3.2 3.3 3.4".split()],
     install_requires=[
-        "fake-factory",
+        "Faker>=0.7.3",
     ],
     # the following makes a plugin available to py.test
     entry_points={
