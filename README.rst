@@ -1,4 +1,4 @@
-faker_ integration the pytest_ test runner
+Faker_ integration with the pytest_ test runner
 ==========================================
 
 .. image:: http://img.shields.io/travis/pytest-dev/pytest-faker.svg
@@ -13,10 +13,10 @@ faker_ integration the pytest_ test runner
     :target: https://readthedocs.org/projects/pytest-faker/?badge=latest
     :alt: Documentation Status
 
-pytest-faker adds faker fixtures_ for easy use of faker_ for your tests under pytest_ runner.
+pytest-faker adds Faker fixtures_ for easy use of Faker_ for your tests under pytest_ runner.
 
-.. _faker: http://www.joke2k.net/faker/
-.. _pytest: http://pytest.org
+.. _Faker: https://faker.readthedocs.io/
+.. _pytest: http://pytest.org/
 .. _fixtures: https://pytest.org/latest/fixture.html
 
 Install pytest-faker
@@ -29,7 +29,7 @@ Install pytest-faker
 Example
 -------
 
-An example of faker_ and pytest_ integration.
+An example of Faker_ and pytest_ integration.
 
 
 tests/test_faker.py:

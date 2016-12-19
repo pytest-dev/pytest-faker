@@ -1,6 +1,11 @@
 Changelog
 =========
 
+2.0.0
+-----
+
+- Switch to a recent Faker (jeffwidman, bubenkoff)
+
 1.1.0
 -----
 
