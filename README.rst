@@ -1,5 +1,5 @@
 Faker_ integration with the pytest_ test runner
-==========================================
+===============================================
 
 .. image:: http://img.shields.io/travis/pytest-dev/pytest-faker.svg
    :target: https://travis-ci.org/pytest-dev/pytest-faker
@@ -20,7 +20,7 @@ pytest-faker adds Faker fixtures_ for easy use of Faker_ for your tests under py
 .. _fixtures: https://pytest.org/latest/fixture.html
 
 Install pytest-faker
--------------------------
+--------------------
 
 ::
 
