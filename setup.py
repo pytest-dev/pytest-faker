@@ -18,7 +18,7 @@ long_description = (
 
 setup(
     name="pytest-faker",
-    description="Faker integration for pytest framework.",
+    description="Faker integration with the pytest framework.",
     long_description=long_description,
     author="Anatoly Bubenkov, Oleg Pidsadnyi and others",
     license="MIT license",
@@ -37,9 +37,9 @@ setup(
         "Topic :: Utilities",
         "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 3"
-    ] + [("Programming Language :: Python :: %s" % x) for x in "2.6 2.7 3.0 3.1 3.2 3.3 3.4".split()],
+    ] + [("Programming Language :: Python :: %s" % x) for x in "2.7 3.0 3.1 3.2 3.3 3.4".split()],
     install_requires=[
-        "fake-factory",
+        "Faker>=0.7.3",
     ],
     # the following makes a plugin available to py.test
     entry_points={
