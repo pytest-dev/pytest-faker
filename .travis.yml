@@ -3,7 +3,7 @@ language: python
 env:
   matrix:
   - TESTENV=py27
-  - TESTENV=py34
+  - TESTENV=py35
   - TESTENV=coveralls
 install:
 - pip install tox
