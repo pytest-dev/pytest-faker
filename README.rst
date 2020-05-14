@@ -15,6 +15,9 @@ Faker_ integration with the pytest_ test runner
 
 pytest-faker adds Faker fixtures_ for easy use of Faker_ for your tests under pytest_ runner.
 
+.. warning::
+    This plugin is included in the faker itself. This repository is not supported since then.  
+
 .. _Faker: https://faker.readthedocs.io/
 .. _pytest: http://pytest.org/
 .. _fixtures: https://pytest.org/latest/fixture.html
